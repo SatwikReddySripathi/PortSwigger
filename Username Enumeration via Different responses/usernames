@@ -1,0 +1,156 @@
+root
+admin
+test
+guest
+info
+adm
+mysql
+user
+administrator
+oracle
+ftp
+pi
+puppet
+ansible
+ec2-user
+vagrant
+azureuser
+academico
+acceso
+access
+accounting
+accounts
+acid
+activestat
+ad
+adam
+adkit
+admin
+administracion
+administrador
+administrator
+administrators
+admins
+ads
+adserver
+adsl
+ae
+af
+affiliate
+affiliates
+afiliados
+ag
+agenda
+agent
+ai
+aix
+ajax
+ak
+akamai
+al
+alabama
+alaska
+albuquerque
+alerts
+alpha
+alterwind
+am
+amarillo
+americas
+an
+anaheim
+analyzer
+announce
+announcements
+antivirus
+ao
+ap
+apache
+apollo
+app
+app01
+app1
+apple
+application
+applications
+apps
+appserver
+aq
+ar
+archie
+arcsight
+argentina
+arizona
+arkansas
+arlington
+as
+as400
+asia
+asterix
+at
+athena
+atlanta
+atlas
+att
+au
+auction
+austin
+auth
+auto
+autodiscover
+
+Track your progress
+Learning materials:
+View all
+0%
+Vulnerability labs:
+View all
+0%
+Level progress:
+1
+of 47
+Apprentice
+0
+of 123
+Practitioner
+0
+of 27
+Expert
+Your level:
+Ne
+NEWBIE
+Solve 46 more labs to become an apprentice.
+See where you rank on our Hall of Fame
+Authentication lab usernames
+ Mark as complete
+In this topic
+Authentication vulnerabilities
+Password-based login
+Multi-factor authentication
+Other authentication mechanisms
+How to secure your authentication mechanisms
+All topics
+SQL injection
+XSS
+CSRF
+Clickjacking
+DOM-based
+CORS
+XXE
+SSRF
+Request smuggling
+Command injection
+Server-side template injection
+Insecure deserialization
+Directory traversal
+Access control
+Authentication vulnerabilities
+OAuth authentication
+Business logic vulnerabilities
+Web cache poisoning
+HTTP Host header attacks
+WebSockets
+Information disclosure
+Try Burp Suite for Free
+Find vulnerabilities in your authentication using Burp Suite
+TRY FOR FREE
